@@ -37,7 +37,6 @@ p {
     color: #fffff8;
     font-weight: bold;
     font-family: "Arial";
-    text-align: center;
     text-decoration: none;
     border-radius: 3px;
     background-color: #9f15a9;
@@ -50,4 +49,11 @@ p {
 
 .y {
     color: #e8a336;
+}
+
+.notification {
+    font-size: 11px;
+    color: #85908c;
+    font-weight: bold;
+    font-family: "Arial";
 }
