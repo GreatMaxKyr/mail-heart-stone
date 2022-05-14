@@ -125,6 +125,7 @@ p {
 }
 
 .oncall {
+    padding-bottom: 48px;
     font-size: 36px;
     color: #263870;
     font-weight: bold;
