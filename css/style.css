@@ -13,6 +13,7 @@ table {
 }
 
 .mt {
+    margin: 0;
     font-size: 55px;
     color: #20b4bb;
     font-weight: bold;
@@ -27,6 +28,7 @@ h2,
     font-weight: bold;
     font-family: "Arial";
     text-align: center;
+    margin: 0;
 }
 
 .smt {
@@ -48,9 +50,11 @@ p {
     line-height: 22px;
     color: #86918c;
     font-family: "Arial";
+    margin: 0;
 }
 
 .a {
+    display: inline-block;
     font-size: 18px;
     color: #fffff8;
     font-weight: bold;
@@ -107,8 +111,16 @@ p {
     text-align: center;
 }
 
+.vblogtd {
+    padding-bottom: 35px;
+    padding-top: 10px;
+}
+
+.oncalltd {
+    padding-bottom: 60px;
+}
+
 .oncall {
-    padding-bottom: 50px;
     font-size: 36px;
     color: #263870;
     font-weight: bold;
