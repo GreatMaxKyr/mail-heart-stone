@@ -111,6 +111,10 @@ p {
     text-align: center;
 }
 
+.bottom {
+    background-color: #ebd2aa;
+}
+
 .vblogtd {
     padding-bottom: 35px;
     padding-top: 10px;
