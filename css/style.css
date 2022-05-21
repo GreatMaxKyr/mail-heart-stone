@@ -107,7 +107,10 @@ p {
     font-weight: bold;
 }
 
-
+.order-td-p {
+    padding-left: 32px;
+    padding-right: 32px;
+}
 
 .witch-fox-h2 {
     padding-bottom: 40px;
@@ -134,7 +137,7 @@ p {
     width: 500px;
 }
 
-.td-social-p {
+.td-p {
     padding-left: 83px;
     padding-right: 83px;
 }
