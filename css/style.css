@@ -1,4 +1,4 @@
-table {
+.mtable {
     background-color: #0c131b;
     color: #86918c;
     width: 600px;
@@ -29,11 +29,16 @@ h2,
     font-family: "Arial";
     text-align: center;
     margin: 0;
+    line-height: px;
 }
 
 .smt {
     font-size: 36px;
     padding-bottom: 40px;
+}
+
+.smp {
+    padding-bottom: 30px;
 }
 
 .st {
@@ -47,7 +52,6 @@ h2,
 p {
     text-align: left;
     font-size: 14px;
-    line-height: 22px;
     color: #86918c;
     font-family: "Arial";
     margin: 0;
@@ -103,6 +107,12 @@ p {
     font-weight: bold;
 }
 
+
+
+.witch-fox-h2 {
+    padding-bottom: 40px;
+}
+
 .notification {
     font-size: 11px;
     color: #85908c;
@@ -118,6 +128,15 @@ p {
 .vblogtd {
     padding-bottom: 35px;
     padding-top: 10px;
+}
+
+.social-table {
+    width: 500px;
+}
+
+.td-social-p {
+    padding-left: 83px;
+    padding-right: 83px;
 }
 
 .oncalltd {
